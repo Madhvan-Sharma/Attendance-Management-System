@@ -1,0 +1,8 @@
+Dear Rohit Sir,
+
+You can compile all three files(student.cpp, admin.cpp, teacher.cpp) all together to make a single application.
+Thank you!
+
+Regards,
+Madhvan Sharma (2K19/SE/068)
+Himesh Mahabi  (2K19/SE/054)
