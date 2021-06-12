@@ -1,6 +1,6 @@
-# ATTENDANCE MANAGEMENT SYSTEM
+# ATTENDX
 
-Our project, “​Attendance Management System​” is a program which deals with the maintenance of student’s attendance details.
+Our project, “​Attendx​” is a program which deals with the maintenance of student’s attendance details.
 
 It allows teachers to mark their student’s attendance. It is maintaining a daily basis of attendance. 
 
